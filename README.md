@@ -17,4 +17,4 @@ I’m a software engineer with concentration in backend engineering, I am aslo a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=showbaba&" alt="showbaba" /></p>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=showbaba&hide_title=true&hide_border=true&langs_count=5)
+[![wakatime](https://wakatime.com/badge/github/ShowBaba/ShowBaba.svg)](https://wakatime.com/badge/github/ShowBaba/ShowBaba)
