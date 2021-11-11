@@ -9,7 +9,7 @@ I’m a software engineer with concentration in Backend Web and Blockchain Engin
 - 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, Golang, API design and Blockachain technology.
 - 📫 How to reach me: samwise858@gmail.com or Twitter [samshandle_](https://twitter.com/samshandle_)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love space technology, building stuffs, watching movies, and reading how things work.
+- ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=showbaba&show_icons=true&locale=en" alt="showbaba" /></p>
 
