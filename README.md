@@ -7,7 +7,7 @@ I'm a software engineer specializing in Backend Web and Cloud Engineering, with 
 - 🔭 Currently, I'm channeling my efforts into personal projects and delving into the latest advancements in cloud technologies.
 - 👯 I’m looking to collaborate on any Golang or Nodejs project.
 - 💬 Feel free to engage with me on Backend development, distributed systems, Golang, JavaScript, TypeScript, Node.js, and API design technology.
-- 📫 How to reach me: samwise858@gmail.com or Twitter [samshandle_](https://twitter.com/samshandle_)
+- 📫 How to reach me: samuel.shoyemi01@gmail.com or Twitter [samshandle_](https://twitter.com/samshandle_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm passionate about space technology, enjoy crafting innovative software, indulge in anime, and love delving into the intricacies of how things work.
 
